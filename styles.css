@@ -113,8 +113,9 @@ h1 {
 }
 
 .header {
-  background-color: #F3F3F3;
+  background-color:transparent;
   display: flex;
+  justify-content:right;
   align-items: baseline;
   padding: .5rem;
   gap: 1rem;
