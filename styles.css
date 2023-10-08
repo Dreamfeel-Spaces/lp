@@ -172,3 +172,9 @@ h1 {
 .login-form > input {
   margin-bottom: .5rem;
 }
+
+
+.imgy{
+    width:100%;
+    max-width:600px;
+}
